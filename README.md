@@ -1,4 +1,4 @@
-## Welcome to STUDIO.VLASOVA!
+## Welcome to СТУДИЯ.ВЛАСОВА!
 
 You can use the [editor on GitHub](https://github.com/motionvlasova/motionvlasova/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
